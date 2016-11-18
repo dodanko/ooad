@@ -1,0 +1,6 @@
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\bin\Debug\OOAD_Assignment03.exe.config
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\obj\Debug\OOAD_Assignment03.csprojResolveAssemblyReference.cache
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\bin\Debug\OOAD_Assignment03.exe
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\bin\Debug\OOAD_Assignment03.pdb
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\obj\Debug\OOAD_Assignment03.exe
+E:\CoursePaper\OOAD_Assignment03\OOAD_Assignment03\obj\Debug\OOAD_Assignment03.pdb
